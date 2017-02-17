@@ -1,0 +1,4998 @@
+fileFormatVersion: 2
+guid: 857ab66b4da91e344bcefb4c77e50c33
+timeCreated: 1487295534
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Richter Belmont_0
+    21300002: Richter Belmont_1
+    21300004: Richter Belmont_2
+    21300006: Richter Belmont_3
+    21300008: Richter Belmont_4
+    21300010: Richter Belmont_5
+    21300012: Richter Belmont_6
+    21300014: Richter Belmont_7
+    21300016: Richter Belmont_8
+    21300018: Richter Belmont_9
+    21300020: Richter Belmont_10
+    21300022: Richter Belmont_11
+    21300024: Richter Belmont_12
+    21300026: Richter Belmont_13
+    21300028: Richter Belmont_14
+    21300030: Richter Belmont_15
+    21300032: Richter Belmont_16
+    21300034: Richter Belmont_17
+    21300036: Richter Belmont_18
+    21300038: Richter Belmont_19
+    21300040: Richter Belmont_20
+    21300042: Richter Belmont_21
+    21300044: Richter Belmont_22
+    21300046: Richter Belmont_23
+    21300048: Richter Belmont_24
+    21300050: Richter Belmont_25
+    21300052: Richter Belmont_26
+    21300054: Richter Belmont_27
+    21300056: Richter Belmont_28
+    21300058: Richter Belmont_29
+    21300060: Richter Belmont_30
+    21300062: Richter Belmont_31
+    21300064: Richter Belmont_32
+    21300066: Richter Belmont_33
+    21300068: Richter Belmont_34
+    21300070: Richter Belmont_35
+    21300072: Richter Belmont_36
+    21300074: Richter Belmont_37
+    21300076: Richter Belmont_38
+    21300078: Richter Belmont_39
+    21300080: Richter Belmont_40
+    21300082: Richter Belmont_41
+    21300084: Richter Belmont_42
+    21300086: Richter Belmont_43
+    21300088: Richter Belmont_44
+    21300090: Richter Belmont_45
+    21300092: Richter Belmont_46
+    21300094: Richter Belmont_47
+    21300096: Richter Belmont_48
+    21300098: Richter Belmont_49
+    21300100: Richter Belmont_50
+    21300102: Richter Belmont_51
+    21300104: Richter Belmont_52
+    21300106: Richter Belmont_53
+    21300108: Richter Belmont_54
+    21300110: Richter Belmont_55
+    21300112: Richter Belmont_56
+    21300114: Richter Belmont_57
+    21300116: Richter Belmont_58
+    21300118: Richter Belmont_59
+    21300120: Richter Belmont_60
+    21300122: Richter Belmont_61
+    21300124: Richter Belmont_62
+    21300126: Richter Belmont_63
+    21300128: Richter Belmont_64
+    21300130: Richter Belmont_65
+    21300132: Richter Belmont_66
+    21300134: Richter Belmont_67
+    21300136: Richter Belmont_68
+    21300138: Richter Belmont_69
+    21300140: Richter Belmont_70
+    21300142: Richter Belmont_71
+    21300144: Richter Belmont_72
+    21300146: Richter Belmont_73
+    21300148: Richter Belmont_74
+    21300150: Richter Belmont_75
+    21300152: Richter Belmont_76
+    21300154: Richter Belmont_77
+    21300156: Richter Belmont_78
+    21300158: Richter Belmont_79
+    21300160: Richter Belmont_80
+    21300162: Richter Belmont_81
+    21300164: Richter Belmont_82
+    21300166: Richter Belmont_83
+    21300168: Richter Belmont_84
+    21300170: Richter Belmont_85
+    21300172: Richter Belmont_86
+    21300174: Richter Belmont_87
+    21300176: Richter Belmont_88
+    21300178: Richter Belmont_89
+    21300180: Richter Belmont_90
+    21300182: Richter Belmont_91
+    21300184: Richter Belmont_92
+    21300186: Richter Belmont_93
+    21300188: Richter Belmont_94
+    21300190: Richter Belmont_95
+    21300192: Richter Belmont_96
+    21300194: Richter Belmont_97
+    21300196: Richter Belmont_98
+    21300198: Richter Belmont_99
+    21300200: Richter Belmont_100
+    21300202: Richter Belmont_101
+    21300204: Richter Belmont_102
+    21300206: Richter Belmont_103
+    21300208: Richter Belmont_104
+    21300210: Richter Belmont_105
+    21300212: Richter Belmont_106
+    21300214: Richter Belmont_107
+    21300216: Richter Belmont_108
+    21300218: Richter Belmont_109
+    21300220: Richter Belmont_110
+    21300222: Richter Belmont_111
+    21300224: Richter Belmont_112
+    21300226: Richter Belmont_113
+    21300228: Richter Belmont_114
+    21300230: Richter Belmont_115
+    21300232: Richter Belmont_116
+    21300234: Richter Belmont_117
+    21300236: Richter Belmont_118
+    21300238: Richter Belmont_119
+    21300240: Richter Belmont_120
+    21300242: Richter Belmont_121
+    21300244: Richter Belmont_122
+    21300246: Richter Belmont_123
+    21300248: Richter Belmont_124
+    21300250: Richter Belmont_125
+    21300252: Richter Belmont_126
+    21300254: Richter Belmont_127
+    21300256: Richter Belmont_128
+    21300258: Richter Belmont_129
+    21300260: Richter Belmont_130
+    21300262: Richter Belmont_131
+    21300264: Richter Belmont_132
+    21300266: Richter Belmont_133
+    21300268: Richter Belmont_134
+    21300270: Richter Belmont_135
+    21300272: Richter Belmont_136
+    21300274: Richter Belmont_137
+    21300276: Richter Belmont_138
+    21300278: Richter Belmont_139
+    21300280: Richter Belmont_140
+    21300282: Richter Belmont_141
+    21300284: Richter Belmont_142
+    21300286: Richter Belmont_143
+    21300288: Richter Belmont_144
+    21300290: Richter Belmont_145
+    21300292: Richter Belmont_146
+    21300294: Richter Belmont_147
+    21300296: Richter Belmont_148
+    21300298: Richter Belmont_149
+    21300300: Richter Belmont_150
+    21300302: Richter Belmont_151
+    21300304: Richter Belmont_152
+    21300306: Richter Belmont_153
+    21300308: Richter Belmont_154
+    21300310: Richter Belmont_155
+    21300312: Richter Belmont_156
+    21300314: Richter Belmont_157
+    21300316: Richter Belmont_158
+    21300318: Richter Belmont_159
+    21300320: Richter Belmont_160
+    21300322: Richter Belmont_161
+    21300324: Richter Belmont_162
+    21300326: Richter Belmont_163
+    21300328: Richter Belmont_164
+    21300330: Richter Belmont_165
+    21300332: Richter Belmont_166
+    21300334: Richter Belmont_167
+    21300336: Richter Belmont_168
+    21300338: Richter Belmont_169
+    21300340: Richter Belmont_170
+    21300342: Richter Belmont_171
+    21300344: Richter Belmont_172
+    21300346: Richter Belmont_173
+    21300348: Richter Belmont_174
+    21300350: Richter Belmont_175
+    21300352: Richter Belmont_176
+    21300354: Richter Belmont_177
+    21300356: Richter Belmont_178
+    21300358: Richter Belmont_179
+    21300360: Richter Belmont_180
+    21300362: Richter Belmont_181
+    21300364: Richter Belmont_182
+    21300366: Richter Belmont_183
+    21300368: Richter Belmont_184
+    21300370: Richter Belmont_185
+    21300372: Richter Belmont_186
+    21300374: Richter Belmont_187
+    21300376: Richter Belmont_188
+    21300378: Richter Belmont_189
+    21300380: Richter Belmont_190
+    21300382: Richter Belmont_191
+    21300384: Richter Belmont_192
+    21300386: Richter Belmont_193
+    21300388: Richter Belmont_194
+    21300390: Richter Belmont_195
+    21300392: Richter Belmont_196
+    21300394: Richter Belmont_197
+    21300396: Richter Belmont_198
+    21300398: Richter Belmont_199
+    21300400: Richter Belmont_200
+    21300402: Richter Belmont_201
+    21300404: Richter Belmont_202
+    21300406: Richter Belmont_203
+    21300408: Richter Belmont_204
+    21300410: Richter Belmont_205
+    21300412: Richter Belmont_206
+    21300414: Richter Belmont_207
+    21300416: Richter Belmont_208
+    21300418: Richter Belmont_209
+    21300420: Richter Belmont_210
+    21300422: Richter Belmont_211
+    21300424: Richter Belmont_212
+    21300426: Richter Belmont_213
+    21300428: Richter Belmont_214
+    21300430: Richter Belmont_215
+    21300432: Richter Belmont_216
+    21300434: Richter Belmont_217
+    21300436: Richter Belmont_218
+    21300438: Richter Belmont_219
+    21300440: Richter Belmont_220
+    21300442: Richter Belmont_221
+    21300444: Richter Belmont_222
+    21300446: Richter Belmont_223
+    21300448: Richter Belmont_224
+    21300450: Richter Belmont_225
+    21300452: Richter Belmont_226
+    21300454: Richter Belmont_227
+    21300456: Richter Belmont_228
+    21300458: Richter Belmont_229
+    21300460: Richter Belmont_230
+    21300462: Richter Belmont_231
+    21300464: Richter Belmont_232
+    21300466: Richter Belmont_233
+    21300468: Richter Belmont_234
+    21300470: Richter Belmont_235
+    21300472: Richter Belmont_236
+    21300474: Richter Belmont_237
+    21300476: Richter Belmont_238
+    21300478: Richter Belmont_239
+    21300480: Richter Belmont_240
+    21300482: Richter Belmont_241
+    21300484: Richter Belmont_242
+    21300486: Richter Belmont_243
+    21300488: Richter Belmont_244
+    21300490: Richter Belmont_245
+    21300492: Richter Belmont_246
+    21300494: Richter Belmont_247
+    21300496: Richter Belmont_248
+    21300498: Richter Belmont_249
+    21300500: Richter Belmont_250
+    21300502: Richter Belmont_251
+    21300504: Richter Belmont_252
+    21300506: Richter Belmont_253
+    21300508: Richter Belmont_254
+    21300510: Richter Belmont_255
+    21300512: Richter Belmont_256
+    21300514: Richter Belmont_257
+    21300516: Richter Belmont_258
+    21300518: Richter Belmont_259
+    21300520: Richter Belmont_260
+    21300522: Richter Belmont_261
+    21300524: Richter Belmont_262
+    21300526: Richter Belmont_263
+    21300528: Richter Belmont_264
+    21300530: Richter Belmont_265
+    21300532: Richter Belmont_266
+    21300534: Richter Belmont_267
+    21300536: Richter Belmont_268
+    21300538: Richter Belmont_269
+    21300540: Richter Belmont_270
+    21300542: Richter Belmont_271
+    21300544: Richter Belmont_272
+    21300546: Richter Belmont_273
+    21300548: Richter Belmont_274
+    21300550: Richter Belmont_275
+    21300552: Richter Belmont_276
+    21300554: Richter Belmont_277
+    21300556: Richter Belmont_278
+    21300558: Richter Belmont_279
+    21300560: Richter Belmont_280
+    21300562: Richter Belmont_281
+    21300564: Richter Belmont_282
+    21300566: Richter Belmont_283
+    21300568: Richter Belmont_284
+    21300570: Richter Belmont_285
+    21300572: Richter Belmont_286
+    21300574: Richter Belmont_287
+    21300576: Richter Belmont_288
+    21300578: Richter Belmont_289
+    21300580: Richter Belmont_290
+    21300582: Richter Belmont_291
+    21300584: Richter Belmont_292
+    21300586: Richter Belmont_293
+    21300588: Richter Belmont_294
+    21300590: Richter Belmont_295
+    21300592: Richter Belmont_296
+    21300594: Richter Belmont_297
+    21300596: Richter Belmont_298
+    21300598: Richter Belmont_299
+    21300600: Richter Belmont_300
+    21300602: Richter Belmont_301
+    21300604: Richter Belmont_302
+    21300606: Richter Belmont_303
+    21300608: Richter Belmont_304
+    21300610: Richter Belmont_305
+    21300612: Richter Belmont_306
+    21300614: Richter Belmont_307
+    21300616: Richter Belmont_308
+    21300618: Richter Belmont_309
+    21300620: Richter Belmont_310
+    21300622: Richter Belmont_311
+    21300624: Richter Belmont_312
+    21300626: Richter Belmont_313
+    21300628: Richter Belmont_314
+    21300630: Richter Belmont_315
+    21300632: Richter Belmont_316
+    21300634: Richter Belmont_317
+    21300636: Richter Belmont_318
+    21300638: Richter Belmont_319
+    21300640: Richter Belmont_320
+    21300642: Richter Belmont_321
+    21300644: Richter Belmont_322
+    21300646: Richter Belmont_323
+    21300648: Richter Belmont_324
+    21300650: Richter Belmont_325
+    21300652: Richter Belmont_326
+    21300654: Richter Belmont_327
+    21300656: Richter Belmont_328
+    21300658: Richter Belmont_329
+    21300660: Richter Belmont_330
+    21300662: Richter Belmont_331
+    21300664: Richter Belmont_332
+    21300666: Richter Belmont_333
+    21300668: Richter Belmont_334
+    21300670: Richter Belmont_335
+    21300672: Richter Belmont_336
+    21300674: Richter Belmont_337
+    21300676: Richter Belmont_338
+    21300678: Richter Belmont_339
+    21300680: Richter Belmont_340
+    21300682: Richter Belmont_341
+    21300684: Richter Belmont_342
+    21300686: Richter Belmont_343
+    21300688: Richter Belmont_344
+    21300690: Richter Belmont_345
+    21300692: Richter Belmont_346
+    21300694: Richter Belmont_347
+    21300696: Richter Belmont_348
+    21300698: Richter Belmont_349
+    21300700: Richter Belmont_350
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Richter Belmont_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 757
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 757
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 758
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 758
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 758
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 756
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 758
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 758
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_8
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 758
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 758
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 758
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_11
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 759
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_12
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 759
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_13
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 759
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_14
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 757
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_15
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 760
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_16
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 760
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_17
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 760
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 708
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 708
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 708
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 708
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 708
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 708
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 708
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_25
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 708
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_26
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 708
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_27
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 708
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_28
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 708
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_29
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 708
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_30
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 708
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_31
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 708
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_32
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 708
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_33
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 708
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_34
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 715
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_35
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 723
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_36
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 716
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_37
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 710
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_38
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 708
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 687
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_40
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 685
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_41
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 687
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 687
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_43
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 687
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_44
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 687
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_45
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 687
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_46
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 687
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_47
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 685
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_48
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 687
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_49
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 685
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_50
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 631
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_51
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 630
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_52
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 631
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_53
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 631
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_54
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 631
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 631
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_56
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 631
+        width: 82
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_57
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 626
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_58
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 627
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_59
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 642
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_60
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 642
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_61
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 642
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_62
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 642
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_63
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 642
+        width: 80
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_64
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 605
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_65
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 605
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_66
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 605
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_67
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 605
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_68
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 605
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_69
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 605
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_70
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 605
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_71
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 600
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_72
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 600
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_73
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 598
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_74
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 595
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_75
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 595
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 595
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_77
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 595
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_78
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 600
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_79
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 600
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_80
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 596
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_81
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 596
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_82
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 596
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_83
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 596
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_84
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 596
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_85
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 596
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_86
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 596
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_87
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 594
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 595
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_89
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 595
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_90
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 595
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_91
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 593
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_92
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 595
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_93
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 595
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_94
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 595
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_95
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 595
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_96
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 538
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_97
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 538
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_98
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 538
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_99
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 538
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_100
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 538
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_101
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 538
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_102
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 538
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_103
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 547
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_104
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 538
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_105
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 538
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_106
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 538
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_107
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 538
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_108
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 538
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_109
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 549
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_110
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 540
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_111
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 540
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_112
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 537
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_113
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 537
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_114
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 537
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_115
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 538
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_116
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 536
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_117
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 536
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_118
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 538
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_119
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 538
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_120
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 538
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_121
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 536
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_122
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 536
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_123
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 506
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_124
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 506
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_125
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 506
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_126
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 504
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_127
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 506
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_128
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 504
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_129
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 506
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_130
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 506
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_131
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 506
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_132
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 450
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_133
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 449
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_134
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 450
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_135
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 450
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_136
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 450
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_137
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 449
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_138
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 450
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_139
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 450
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_140
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 450
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_141
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 449
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_142
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 449
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_143
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 449
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_144
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 449
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_145
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 449
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_146
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 449
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_147
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 449
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_148
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 478
+        width: 48
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_149
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 449
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_150
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 449
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_151
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 449
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_152
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 449
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_153
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 449
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_154
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 449
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_155
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 449
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_156
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 449
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_157
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 421
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_158
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 421
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_159
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 421
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_160
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 419
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_161
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 421
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_162
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 421
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_163
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 421
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_164
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 421
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_165
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 421
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_166
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 421
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_167
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 421
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_168
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 364
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_169
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 364
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_170
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 364
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_171
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 365
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_172
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 364
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_173
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 364
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_174
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 364
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_175
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 365
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_176
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 364
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_177
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 364
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_178
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 364
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_179
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 364
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_180
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 364
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_181
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 364
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_182
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 364
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_183
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 364
+        width: 82
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_184
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 364
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_185
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 364
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_186
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 364
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_187
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 364
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_188
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 364
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_189
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 364
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_190
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 364
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_191
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 364
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_192
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 335
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_193
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 335
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_194
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 335
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_195
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 333
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_196
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 299
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_197
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 339
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_198
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 339
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_199
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 339
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_200
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 339
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_201
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 301
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_202
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 302
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_203
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 301
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_204
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 302
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_205
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 300
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_206
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 301
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_207
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 304
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_208
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 303
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_209
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 323
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_210
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 322
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_211
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 297
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_212
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 303
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_213
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 302
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_214
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 297
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_215
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 270
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_216
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 268
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_217
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 270
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_218
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 270
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_219
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 270
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_220
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 270
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_221
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 201
+        width: 145
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_222
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 218
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_223
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 218
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_224
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 200
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_225
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 201
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_226
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 195
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_227
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 201
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_228
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 201
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_229
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 201
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_230
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 201
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_231
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 227
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_232
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 161
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_233
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 161
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_234
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 161
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_235
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 161
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_236
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 161
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_237
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 161
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_238
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 159
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_239
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 161
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_240
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 161
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_241
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 161
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_242
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 153
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_243
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 153
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_244
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 153
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_245
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 153
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_246
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 153
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_247
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 153
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_248
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 153
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_249
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 134
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_250
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 134
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_251
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 134
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_252
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 134
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_253
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 134
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_254
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 134
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_255
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 134
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_256
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 134
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_257
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 136
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_258
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 136
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_259
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 136
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_260
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 136
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_261
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 136
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_262
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 134
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_263
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 136
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_264
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 136
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_265
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 81
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_266
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 85
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_267
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 85
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_268
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 85
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_269
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 81
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_270
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 85
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_271
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 87
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_272
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 84
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_273
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 86
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_274
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 87
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_275
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_276
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 87
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_277
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 93
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_278
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 93
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_279
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 97
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_280
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 97
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_281
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 83
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_282
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 83
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_283
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 83
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_284
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 83
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_285
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 83
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_286
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 83
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_287
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 85
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_288
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 99
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_289
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 91
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_290
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_291
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 91
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_292
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 99
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_293
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 91
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_294
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 99
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_295
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 83
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_296
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 53
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_297
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_298
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 81
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_299
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 89
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_300
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 89
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_301
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 89
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_302
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 89
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_303
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 83
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_304
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 83
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_305
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 83
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_306
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 62
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_307
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 67
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_308
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 65
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_309
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 57
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_310
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 57
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_311
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 55
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_312
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 57
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_313
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 57
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_314
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 59
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_315
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 59
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_316
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 57
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_317
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 59
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_318
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 59
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_319
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 59
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_320
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 60
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_321
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_322
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 8
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_323
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 6
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_324
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 6
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_325
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 0
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_326
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_327
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_328
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_329
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 14
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_330
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 12
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_331
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 8
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_332
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 8
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_333
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_334
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 8
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_335
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 6
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_336
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_337
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 10
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_338
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 10
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_339
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 10
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_340
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 10
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_341
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 10
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_342
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 10
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_343
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 10
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_344
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 10
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_345
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 10
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_346
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 10
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_347
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 9
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_348
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 6
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_349
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Richter Belmont_350
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 0
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
