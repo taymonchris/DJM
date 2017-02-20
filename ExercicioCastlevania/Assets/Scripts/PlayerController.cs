@@ -47,7 +47,6 @@ public class PlayerController : MonoBehaviour {
         anim.SetFloat("Speed", Mathf.Abs(move));
         if(anim.GetBool("isAttacking") == false)
         gameObject.GetComponent<Rigidbody2D>().velocity = new Vector2(move * maxSpeed, gameObject.GetComponent<Rigidbody2D>().velocity.y);
-
         if (move > 0 && !facingRight)
             Flip();
         else if (move < 0 && facingRight)
